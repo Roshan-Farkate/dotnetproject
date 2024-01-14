@@ -1,0 +1,12 @@
+﻿C:\Users\Roshan Farkate\Source\Repos\dotnetproject\dotnetproject\Controllers\WeatherForecastController.cs
+C:\Users\Roshan Farkate\Source\Repos\dotnetproject\dotnetproject\Program.cs
+C:\Users\Roshan Farkate\Source\Repos\dotnetproject\dotnetproject\WeatherForecast.cs
+C:\Users\Roshan Farkate\Source\Repos\dotnetproject\dotnetproject\obj\Debug\net8.0\dotnetproject.GlobalUsings.g.cs
+C:\Users\Roshan Farkate\Source\Repos\dotnetproject\dotnetproject\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+C:\Users\Roshan Farkate\Source\Repos\dotnetproject\dotnetproject\obj\Debug\net8.0\dotnetproject.AssemblyInfo.cs
+C:\Users\Roshan Farkate\Source\Repos\dotnetproject\dotnetproject\obj\Debug\net8.0\dotnetproject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Roshan Farkate\Source\Repos\dotnetproject\dotnetproject\appsettings.Development.json
+C:\Users\Roshan Farkate\Source\Repos\dotnetproject\dotnetproject\appsettings.json
+C:\Users\Roshan Farkate\Source\Repos\dotnetproject\dotnetproject\dotnetproject.http
+C:\Users\Roshan Farkate\Source\Repos\dotnetproject\dotnetproject\Properties\launchSettings.json
+C:\Users\Roshan Farkate\Source\Repos\dotnetproject\dotnetproject\Properties\PublishProfiles\FolderProfile.pubxml
