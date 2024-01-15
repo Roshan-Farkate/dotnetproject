@@ -6,7 +6,12 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <InvariantGlobalization>true</InvariantGlobalization>
   </PropertyGroup>
-
+<PropertyGroup>
+    <SonarQubeUrl>http://localhost:9000</SonarQubeUrl>
+    <SonarQubeKey>dotnetproject</SonarQubeKey>
+    <SonarQubeVersion>8.0</SonarQubeVersion>
+    <SonarQubeTestProject>True</SonarQubeTestProject>
+</PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
   </ItemGroup>
